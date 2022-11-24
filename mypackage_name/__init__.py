@@ -1,0 +1,1 @@
+from mypackage_name.code import compiled
